@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "2022-06-27_08-10-02")(type "KiCad")(uri "${KIPRJMOD}/STM32/2022-06-27_08-10-02.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32H7B0RBT6")(type "KiCad")(uri "${KIPRJMOD}/STM32/STM32H7B0RBT6.kicad_sym")(options "")(descr ""))
+)

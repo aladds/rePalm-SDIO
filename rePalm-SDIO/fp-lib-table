@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "stm32")(type "KiCad")(uri "${KIPRJMOD}/STM32/LQFP_B0VBT6_STM.pretty")(options "")(descr ""))
+  (lib (name "LQFP_B0VBT6_STM")(type "KiCad")(uri "${KIPRJMOD}/STM32/STM32H7B0RBT6.pretty")(options "")(descr ""))
+)
