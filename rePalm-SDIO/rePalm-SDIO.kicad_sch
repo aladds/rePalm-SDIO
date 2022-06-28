@@ -1765,7 +1765,7 @@
     (uuid 5c5a877d-e8c1-4c88-bb2f-21ecf08c6f39)
     (property "Reference" "U2" (id 0) (at 228.6 33.7693 0))
     (property "Value" "S25FL064LABMFN010" (id 1) (at 228.6 36.3093 0))
-    (property "Footprint" "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm" (id 2) (at 209.55 60.96 0)
+    (property "Footprint" "stm32:BACKWARDS-SOIC-8_5.275x5.275mm_P1.27mm" (id 2) (at 209.55 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.mouser.co.uk/datasheet/2/100/CYPR_S_A0002840219_1-2540550.pdf" (id 3) (at 208.28 29.21 0)
@@ -1963,7 +1963,7 @@
     (uuid ce64f6a3-1651-4ed6-9f2c-214ec1eed12f)
     (property "Reference" "U3" (id 0) (at 146.05 123.9393 0))
     (property "Value" "APS6404L-3SQR-SN" (id 1) (at 146.05 126.4793 0))
-    (property "Footprint" "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm" (id 2) (at 127 151.13 0)
+    (property "Footprint" "stm32:BACKWARDS-SOIC-8_5.275x5.275mm_P1.27mm" (id 2) (at 127 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.mouser.co.uk/datasheet/2/1127/APM_PSRAM_QSPI_APS6404L_3SQR_v2_3_PKG-1954826.pdf" (id 3) (at 125.73 119.38 0)
@@ -2121,10 +2121,10 @@
       (reference "U1") (unit 1) (value "STM32H7B0RBT6") (footprint "LQFP_B0VBT6_STM:STM32H7B0RBT6")
     )
     (path "/5c5a877d-e8c1-4c88-bb2f-21ecf08c6f39"
-      (reference "U2") (unit 1) (value "S25FL064LABMFN010") (footprint "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm")
+      (reference "U2") (unit 1) (value "S25FL064LABMFN010") (footprint "stm32:BACKWARDS-SOIC-8_5.275x5.275mm_P1.27mm")
     )
     (path "/ce64f6a3-1651-4ed6-9f2c-214ec1eed12f"
-      (reference "U3") (unit 1) (value "APS6404L-3SQR-SN") (footprint "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm")
+      (reference "U3") (unit 1) (value "APS6404L-3SQR-SN") (footprint "stm32:BACKWARDS-SOIC-8_5.275x5.275mm_P1.27mm")
     )
     (path "/56d066a8-2b75-48d5-acc2-803112e44382"
       (reference "U4") (unit 1) (value "LTC3406BES5-1.2") (footprint "Package_TO_SOT_SMD:TSOT-23-5")
