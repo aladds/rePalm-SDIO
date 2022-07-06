@@ -2015,7 +2015,7 @@
     (property "Value" "STM32H7B0RBT6" (id 1) (at 132.08 22.86 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "LQFP_B0VBT6_STM:STM32H7B0RBT6" (id 2) (at 132.08 24.384 0)
+    (property "Footprint" "LQFP_B0VBT6_STM:STM32H7B0RBT6_UpsideDown" (id 2) (at 132.08 24.384 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 99.06 30.48 0)
@@ -2287,7 +2287,7 @@
       (reference "R1") (unit 1) (value "50K") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/aabd828a-8fad-4fdf-ac5a-c3a88af4bd63"
-      (reference "U1") (unit 1) (value "STM32H7B0RBT6") (footprint "LQFP_B0VBT6_STM:STM32H7B0RBT6")
+      (reference "U1") (unit 1) (value "STM32H7B0RBT6") (footprint "LQFP_B0VBT6_STM:STM32H7B0RBT6_UpsideDown")
     )
     (path "/5c5a877d-e8c1-4c88-bb2f-21ecf08c6f39"
       (reference "U2") (unit 1) (value "S25FL064LABMFN010") (footprint "stm32:BACKWARDS-SOIC-8_5.275x5.275mm_P1.27mm")
